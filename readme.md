@@ -1,0 +1,1 @@
+# aplicação construída na GoWeek na OmniStack da Rocketseat 
