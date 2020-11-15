@@ -6,7 +6,7 @@ Twitter Clone
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/github/license/robertosousa1/twitter-clone?color=%236633cc&logo=mit" alt="License">
+    <img alt="License" src="https://img.shields.io/github/license/robertosousa1/twitter-clone.svg?color=%236633cc&logo=mit">   
   </a>
 </p>
 
